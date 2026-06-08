@@ -1,0 +1,1 @@
+console.log("StarRealm 啟動成功");
